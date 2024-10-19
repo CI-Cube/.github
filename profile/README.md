@@ -26,9 +26,4 @@ Check out the live demo: [CICube Demo](https://s.cicube.io/demo)
 For more details, visit our landing page:  
 [CICube Website](https://cicube.io)
 
-### Contact Us
 
-We’re always happy to hear feedback and suggestions. Feel free to reach out with any questions!
-
-- [Twitter](https://twitter.com/cicube)
-- [Contact Us](mailto:support@cicube.io)
